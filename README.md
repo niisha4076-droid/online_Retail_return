@@ -36,7 +36,7 @@ The dataset file used is: online_retail_returns.csv
 * Matplotlib
 * Google Colab
 
-### METHODLOGY
+### METHODOLOGY
 
 The project was completed by following these steps:
 * Imported required Python libraries
@@ -80,4 +80,5 @@ Overall, this project helped strengthen practical skills in data handling, analy
 
 # Author
 Nisha kumari
+
 Computer Science Student
