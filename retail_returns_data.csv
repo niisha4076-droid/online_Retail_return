@@ -1,0 +1,16 @@
+OrderID,Product,Category,Returned,ReturnReason
+1001,Shoes,Fashion,Yes,Size Issue
+1002,T-Shirt,Fashion,No,None
+1003,Laptop,Electronics,Yes,Damaged
+1004,Headphones,Electronics,Yes,Wrong Item
+1005,Jeans,Fashion,No,None
+1006,Mobile Phone,Electronics,Yes,Defective
+1007,Watch,Accessories,No,None
+1008,Backpack,Accessories,Yes,Quality Issue
+1009,Shirt,Fashion,Yes,Color Mismatch
+1010,Tablet,Electronics,No,None
+1011,Sneakers,Fashion,Yes,Size Issue
+1012,Power Bank,Electronics,Yes,Not as Described
+1013,Cap,Accessories,No,None
+1014,Earbuds,Electronics,Yes,Damaged
+1015,Jacket,Fashion,Yes,Size Issue
